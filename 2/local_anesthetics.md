@@ -181,84 +181,46 @@ All local anesthetics (LA) consist of:
   - Provides excellent anesthesia for a variety of procedures
 
 ---
-🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
-🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
----
-
-## Spinal Anesthesia
-- Drug introduced into spinal fluid → extensive, profound anesthesia  
-- Site of action: spinal nerve roots, ganglia, spinal cord  
-- Rapid onset  
-- Hypotension (due to sympathetic blockade)  
-- Headache (due to CSF leakage)  
-
----
-
-## Routes of Administration
-- **Surface anesthesia:** Lidocaine  
-- **Infiltration:** Most LAs  
-- **Nerve block:** All LAs  
-- **Spinal:** Lidocaine, Tetracaine  
-- **Epidural:** Lidocaine, Tetracaine  
-
----
 
 ## Types of Regional Block
 1. Nerve block  
 2. Intravenous regional anesthesia  
 3. Epidural (extradural)  
-4. Spinal (subarachnoid, intrathecal)  
+4. Spinal (subarachnoid, intrathecal)
 
-### Nerve Block
-- Injection near peripheral nerve or plexus  
-- Used in surgery (limbs, face, dentistry, obstetrics)  
+### 1. Nerve block
+- Anesthetize a region by injecting the drug around the peripheral nerve or a plexus
+- Most of the LAs can be used to block nerves for surgery, dentistry, analgesia
+- Special forms
+- Brachial plexus block -Upper extremity
+- Sciatic, Femoral or Obturator block - Lower extremity
 
-### Intravenous Regional Anesthesia
-- LA injected IV distal to tourniquet → anesthesia until circulation restored  
-- Used in limb surgery  
-- Drugs: Lidocaine, Prilocaine  
+### 2. Intravenous Regional Anesthesia
+- LA injected intravenously distal to a-pressure cuff to arrest blood flow
+- Remains effective until the circulation is restored
+- Can be used in limb surgery
+- Lidocaine, Prilocaine
 
-### Epidural Anesthesia
-- Injected into epidural space (acts on nerve roots)  
-- Used in thoracic, lumbar, sacral surgery, and obstetrics  
-- Lower risk of headache/hypotension vs spinal anesthesia  
+### 3. Extradural (Epidural) Anesthesia
+- Injected into the extradural space to act on nerve root
+- Used in thoiracic, lumber and sacral region
+- Widely used in obstetrics
+- Avoids potentially serious hazards of putting foreign substances into CSF
+- Risk of head ache and hypotension is less than spinal anesthesia
 
----
-
-## Adverse Effects
-
-
----
-
-## Prolonging Action of Local Anesthetics
-- Add vasoconstrictor (e.g., Adrenaline)  
-- Acts on α₁ receptor → vasoconstriction → ↓ blood flow at injection site → ↓ systemic absorption  
-
-### Benefits
-- Prolonged duration of anesthesia  
-- Adequate anesthesia for long procedures  
-- Extended postoperative pain control  
-- Lower total anesthetic requirement  
-- Reduced risk of systemic toxicity  
-
-### Dangers of Adrenaline
-- Delay in wound healing  
-- Tissue edema  
-- Necrosis of injected tissue  
+### 4. Spinal Anesthesia
+- Drug is directly introduced into the spinal fluid
+- Produces extensive and profound anesthesia
+- **Site of action:** - Spinal nerve roots, spinal ganglia and perhaps spinal cord
+- Onset of action - Rapid
+- Hypotension occurs due to blockade of sympathetic nervous system
+- Headache occurs due to CSF leakage
 
 ---
 
-## Procedures Using Local Anesthetics
-### Topical/Surface
-- Nasal mucosa, wounds, nerve endings, epidural or subarachnoid space  
-- Drugs: Lidocaine, Tetracaine, Benzocaine, Dibucaine  
-- Not effective for skin  
-
-### Infiltration
-- Injection under skin → paralyzes sensory nerve endings & cutaneous nerves  
-- Used in minor surgery  
-- Most LAs can be used  
-
-### Regional Block
-- Injection near nerve or plexus proximal to surgical site  
-- Produces anesthesia in larger regions
+## Classify local anesthetics according to administration
+- Surface anesthesia - Lidocaine
+- Infiltration - Mostly all LA
+- Nerve block - All LA
+- Spinal - Lidocaine Tetracaine
+- Epidural - Lidocaine, Tetracaine
