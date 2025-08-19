@@ -93,8 +93,6 @@ All local anesthetics (LA) consist of:
 - Excretion: In the urine. Acidification of urine promotes ionization of the tertiary amine and leads to rapid elimination
 
 ---
-🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
----
 
 ## Mechanism of Action
 - Local anesthetics bind to the **inner side of voltage-gated Na+ channels** and block the channel
@@ -111,13 +109,80 @@ All local anesthetics (LA) consist of:
 
 ---
 
-## Clinical Uses
-- Provide temporary but complete analgesia where loss of consciousness is not required  
-- Adjunct to major surgery (to reduce dose of general anesthesia)  
-- Post-operative analgesia (slow epidural infusion)  
-- **Dental procedures:** Articaine (fast onset, intermediate duration), Lidocaine  
-- **Labor pain:** Epidural Lidocaine  
+## Clinical Uses:
+- LA is generally used to provide temporary but complete analgesia where loss of consciousness is neither necessary nor desirable
+- Also can be used as an adjunct to major surgery to avoid high dose of GA
+- Post operative analgesia instead of opioids (slow epidural infusion)
+- Dental procedures: Articaine preferred (Fast onset of action & intermediate duration), Lignocaine
+- Used in labor to reduce pain (epidural)
 
+---
+
+## Adverse Effects:
+### 1. CNS
+- Sedation
+- Light-headedness  
+- Visual & auditory disturbances  
+- Restlessness  
+- Neurotoxicity: All LA can produce direct neurotoxicity when applied in excessive and high concentration
+- More with chloroprocaine and lidocaine
+- Transient neuropathic symptoms (due to irritation)
+
+### 2. CVS
+- Direct cardiac or ANS effects  
+- Hypotension: Bupivacaine, Ropivacaine (Check the BP before giving local anesthetic)
+
+### 3. Blood
+- **Methemoglobinemia (Prilocaine):** Due to metabolite o-toluidine which converts Hb to MethHb  
+- Treatment: Methylene blue (reducing agent)
+
+### 4. Allergic Reactions
+- Rash, asthma, anaphylactic shock 
+- **Amide LA:** Less allergic  
+- **Ester LA:** More allergic  
+
+### How can you prolong the drug action of local anesthetics?
+- By adding vasoconstrictor substance - Adrenaline
+- Adrenaline acts on a, receptor and produces vasoconstriction and decrease blood flow to the injection site and decrease systemic absorption of LA from depot site
+
+---
+
+### Benefits of added vasoconstrictor
+- Longer duration → Leading to
+  - Adequate anesthesia for prolonged period
+  - Extended duration of postoperative pain control
+  - Lower total anesthetic requirement
+- Risk of systemic toxic effect is reduced
+
+### What are the dangers of adrenaline?
+- Delay in healing of wounds
+- Tissue edema
+- Necrosis of local part
+
+### Choice of Local Anesthetic:
+- No agent ideal
+- Lignlocaine may be safest and best for surface anesthesia
+- Lignocaine, Prilocaine - for infiltration
+
+---
+
+## Procedures of use of local anesthetics
+- _**Topical or Surface anesthesia**_
+  - Nasal mucosa, wound (incision site) margins, injection in the vicinity of peripheral nerve endings and major nerve trunks (blocks), injection into the epidural or subarachnoid space
+  - Not effective for skin
+  - Lidocaine, Tetracaine, Benzocaine, Dibucaine
+- _**Infiltration anesthesia**_
+  - Injection of LA under the skin
+  - Paralyze sensory the nerve endings and small cutaneous nerves
+  - Used to perform minor surgery
+  - Most of the LA
+- _**Regional Block**_
+  - Involve the injection near a nerve or nerve plexus proximal to the surgical site
+  - Provides excellent anesthesia for a variety of procedures
+
+---
+🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡🤡
+🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸🐸
 ---
 
 ## Spinal Anesthesia
@@ -162,25 +227,6 @@ All local anesthetics (LA) consist of:
 
 ## Adverse Effects
 
-### CNS
-- Sedation, light-headedness  
-- Visual & auditory disturbances  
-- Restlessness  
-- Neurotoxicity (especially chloroprocaine, lidocaine at high dose)  
-- Transient neuropathic symptoms  
-
-### CVS
-- Direct cardiac or autonomic effects  
-- Hypotension: Bupivacaine, Ropivacaine  
-
-### Blood
-- **Methemoglobinemia (Prilocaine):** Due to metabolite o-toluidine → converts Hb to MetHb  
-- Treatment: Methylene blue  
-
-### Allergic Reactions
-- Rash, asthma, anaphylaxis  
-- **Amides:** Less allergic  
-- **Esters:** More allergic  
 
 ---
 
